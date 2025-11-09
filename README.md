@@ -1,4 +1,3 @@
-# FileExploreApplication
 #include <iostream>
 #include <filesystem>
 #include <fstream>
